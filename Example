@@ -1,5 +1,8 @@
 local Window = redzlib:CreateWindow({
-    Title = "My Redz Hub Window",
-    SubTitle = "Custom Background Test",
-    SaveFolder = "MyCustomHub"
+    Name = "gg",
+    Icon = 93913897883217,
+    LoadingTitle = "My Redz Hub Window",
+    LoadingSubTitle = "Custom Background Test",
+    ShowText = "redzlib",
+    Theme = "default",
 })
